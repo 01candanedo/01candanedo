@@ -4,6 +4,6 @@
   </a>
   <br>
   <a href="https://github.com/jsxmark">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsxmark&layout=default&langs_count=8&theme=chartreuse-dark&exclude_repo=With-Laravel" style="width: 30%;"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsxmark&layout=default&langs_count=10&theme=chartreuse-dark&exclude_repo=With-Laravel" style="width: 35%;"/>
   </a>
 </div>
